@@ -1,6 +1,9 @@
-streamlit
+streamlit==1.39.0
 pandas
 numpy
 scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
 joblib
-scipy
